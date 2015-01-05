@@ -115,8 +115,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000047_0000_0F9F188CD2B36A20"/>
-            <pb facs="tcp:000047_0001_0F9F1884A3DECCE0" rendition="simple:additions"/>
+            <pb facs="unknown:000047_0000_0F9F188CD2B36A20"/>
+            <pb facs="unknown:000047_0001_0F9F1884A3DECCE0"
+                rendition="simple:additions"/>
             <p>A FAREWEL EXHORTATION TO THE CHURCH AND PEOPLE OF DORCHESTER IN NEW-ENGLAND.</p>
             <p>But Not unusefull to any others, that shall <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -148,7 +149,7 @@
             <p>Printed by <hi>Samuel Green</hi> at <hi>CAMBRIDG</hi> in New-England 1657.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:000047_0002_0F9F1886C9E2B748"/>
+            <pb facs="unknown:000047_0002_0F9F1886C9E2B748"/>
             <head>THE PREFACE TO THE READER.</head>
             <opener>
                <salute>Christian Reader,</salute>
@@ -161,7 +162,7 @@
                </gap>shua before his death, as appeares <hi>Josh. chap: 23, and 24.</hi> wherein he warnes them against their apostacy most sweetly &amp; pathetically, and particularly remarkeable is that Josh. <hi>24., 25, 26. Joshua made a Covenant with the people, and set them a statute, and Ordinance in Sechem, and Joshua wrote those words in the book of the Law of God, and took a great stone, and set it there under an Oak that was by the Sanctuary of the Lord, and said unto all the people, behold this stone shall be a witness unto us, for it hath heard all the words of the Lord, which he spake unto us, least ye deny your God.</hi>
             </p>
             <p>
-               <pb facs="tcp:000047_0003_0F9F1887937F93C0"/>Thus it hath pleased the Lord in mercy <gap reason="illegible" resp="#PDCC" extent="1 word">
+               <pb facs="unknown:000047_0003_0F9F1887937F93C0"/>Thus it hath pleased the Lord in mercy <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> guide the spirit of this Reverend Mi<g ref="char:EOLhyphen"/>nister &amp; servant of Christ, now being strick<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -193,7 +194,7 @@
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:000047_0004_0F9F18884E40C208"/>
+            <pb facs="unknown:000047_0004_0F9F18884E40C208"/>
             <head>TO THE CHURCH AND INHABITANTS of <hi>DORCHESTER</hi> in New-England, Mercy and Peace in CHRIST JESUS.</head>
             <p>
                <seg rend="decorInit">M</seg>Y dearly Beloved<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -247,7 +248,7 @@
                   </gap>se to call for it: And as it is said of Abel, that being dead, he yet speaketh,</hi> Heb: 11.4. <hi>So why may not I be speaking to you in these poor papers for the good of your soules, when in person I shall be removed frm you by bodily death; So you have my Apologie for my present undertaking, and a manifestation of my Scope and aime therin.</hi>
             </p>
             <p>Be pleased therefore I beseech you, <hi>to give me leave to commend to your
-<pb n="2" facs="tcp:000047_0005_0F9F18890C80B2E8"/>
+<pb n="2" facs="unknown:000047_0005_0F9F18890C80B2E8"/>
 consideration &amp; acceptance in the Lord, a few l<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ues of Christian counsell &amp; advise, for the good of your precious and immortall sin it; which I desire to leave with you as the best Legacy I can be quea<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -318,7 +319,7 @@ consideration &amp; acceptance in the Lord, a few l<gap reason="illegible" resp=
                </gap>r all his suffer<g ref="char:EOLhyphen"/>ings were for the sinns of those that must be saved, <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>. 53.5 6<g ref="char:punc">▪</g> 8. And can you believe &amp; remember &amp; consider these his sufferings, and look upon him
-<pb n="3" facs="tcp:000047_0006_0F9F1889D7762638"/>
+<pb n="3" facs="unknown:000047_0006_0F9F1889D7762638"/>
 as one whom you have pierced, &amp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>et for all this remayn without true Contriti<g ref="char:EOLhyphen"/>on &amp; grief of heart? believe it then your hearts are very hard indeed. What? kill Christ, and not be grieved? and look on him whom you have pierced, and yet not mourn, nor be in bitterness for all this? Is this possible? or may it not rather be concluded from <hi>Zech.</hi> 12.10. that those that do not bitterly mourn for their sins, as the cause of Christs sufferings, that such hard hearted creatures are none of those that must be saved by Christ, nor have part and portion in the saving benefits of his passion? He that was a man after Gods own heart, you may find him complaining that his iniquities were gone over his head, and were as an heavy burden, too heavy for him, <hi>Psal.</hi> 38.4. and that theref<gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -380,7 +381,7 @@ as one whom you have pierced, &amp; <gap reason="illegible" resp="#PDCC" extent=
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>
-               <pb n="4" facs="tcp:000047_0007_0F9F188A8F5F8C00"/>
+               <pb n="4" facs="unknown:000047_0007_0F9F188A8F5F8C00"/>
 and in a lost estate, and to those is the Lord <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>esus sent to seek &amp; save them, and to preach the Gospel to them, <hi>Luke</hi> 19 10. <hi>Isai.</hi> 61.1. <hi>Luke</hi> 4.18. But for others, that do not feel themselves sick of sin, but are secure &amp; hard hearted, as if they were righteous and whole &amp; well, to those the Lord Jesus himself tells us that he is no physitian for the healing of them, <hi>Mat.</hi> 9.12, 13. and if Christ who is the only physitian to cure soules, be not sent unto <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -427,7 +428,7 @@ and in a lost estate, and to those is the Lord <gap reason="illegible" resp="#PD
                </gap>e time be comforted by him: In a word see to it, that you be not destitute of that godly sorrow that work<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>th Re<g ref="char:EOLhyphen"/>pentance to salvation, not to be repented of, 2 <hi>Cor:</hi> 7.10. If now you mourn
-<pb n="5" facs="tcp:000047_0008_0F9F188D87A90770"/>
+<pb n="5" facs="unknown:000047_0008_0F9F188D87A90770"/>
 in an holy and spiritual manner, the Lord Jesus hath pronounced that you are blessed, and shall be comforted, <hi>Mat.</hi> 5.4. But otherwise, expect not but that sorrow &amp; mourning will seize upon you, if not now, then at such a time when you shall not be able to put them off, nor find any comfort therin. And as we say of winter, that, winter is seldom or never lost, so may we say of sorrow for sin it will not be alwayes left, but will certainly come, either at one time or anothe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> either now in this life, or herefie<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -474,7 +475,7 @@ in an holy and spiritual manner, the Lord Jesus hath pronounced that you are ble
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>.15. <hi>Acts</hi> 20.29. where false Teachers are compared to <hi>greivous and ravening
-<pb n="6" facs="tcp:000047_0009_0F9F188EA7DE96B8"/>
+<pb n="6" facs="unknown:000047_0009_0F9F188EA7DE96B8"/>
 wolves,</hi> And if you can believe that sheep may do well enough though raven<g ref="char:EOLhyphen"/>ing wolves be let in amongst them, then you may believe that false doctrine and they that teach it are no wayes dangerous to the soules of men; But if the one be contrary to experience &amp; common sense, and therefore may not be be<g ref="char:EOLhyphen"/>leived, then neither may the other. Wherefore my beloved, take heed you be not <hi>pluckt away with any errour of the wicked, and fall from your own stedfast<g ref="char:EOLhyphen"/>
                   <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -550,7 +551,7 @@ wolves,</hi> And if you can believe that sheep may do well enough though raven<g
                   <desc>〈◊〉</desc>
                </gap> no more but the end of that age that then was, when the Apostles were upon the earth,
 <pb n="7"
-                   facs="tcp:000047_0010_0F9F188F27A82150"
+                   facs="unknown:000047_0010_0F9F188F27A82150"
                    rendition="simple:additions"/>
 But by the like reason they may call the harvest when the Elect shall be gather<g ref="char:EOLhyphen"/>ed by the Angells into the glory of Heaven, and when the wicked shall be cast as <hi>tares</hi> into Hell fire, they may with as good reason call this Harvest the end of that age when the Apostles lived, for th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -564,7 +565,7 @@ But by the like reason they may call the harvest when the Elect shall be gather<
                   <desc>〈◊〉</desc>
                </gap> 5.12, 13. <hi>Heb<g ref="char:punc">▪</g>
                </hi> 13.7<g ref="char:punc">▪</g> 17. And though it be now a time when many think, that no great abilityes are requisite in a minister, or preacher of the word
-<pb n="8" facs="tcp:000047_0011_0F9F188FCCE80FD8"/>
+<pb n="8" facs="unknown:000047_0011_0F9F188FCCE80FD8"/>
 but that ordinary brethren may suffice for such imployment, yet you shall do better to be of his mind, who counts a man fit for such work, to be <hi>one of a thousand, Job</hi> 33.23. which imports that such men are not very common, but fare men. And otherwise what need was there for <hi>Paul</hi> to cry out oh <hi>who is sufficient for such things<g ref="char:punc">▪</g>
                </hi> 2 <hi>Cor:</hi> 2.16. Sure there was little reason for such an exclamation, if ability to read English be sufficient, but one would think that speech implyes, that such abilityes and <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -606,7 +607,7 @@ but that ordinary brethren may suffice for such imployment, yet you shall do bet
                </gap> hearing <hi>sent preachers,</hi> as the way &amp; meane, to believing, even as believing &amp; <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>lling
-<pb n="9" facs="tcp:000047_0012_0F9F18908842E9F8"/>
+<pb n="9" facs="unknown:000047_0012_0F9F18908842E9F8"/>
 upon God is the way &amp; meanes to Saluation. And when God shall be so gracious unto you as to bestow such a man upon you, see that you dearly love him &amp; reverence him in the Lord, <hi>holding such in reputation, Phil.</hi> 2.29. and counting their very <hi>feet to be beautifull, Rom<g ref="char:punc">▪</g>
                </hi> 10.15. or otherwise the Lord will require it of you as a disrespect offered &amp; done to him, who hath said, <hi>He that heareth &amp; re<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -614,7 +615,7 @@ upon God is the way &amp; meanes to Saluation. And when God shall be so gracious
             <p n="4">4. <hi>Think it not enough to serve the Lord your selves alone in your own per<g ref="char:EOLhyphen"/>sons, but be sure to have special care that your Children &amp; families may serve him also,</hi> and therefore remember to Instruct them and teach them the word and will of God, and to pray for them and with them, for Gods blessing to be upon their soules. For the former of these, there is express Co<g ref="char:cmbAbbrStroke">̄</g>mandement &amp; charge, <hi>Eph.</hi> 6.4. <hi>Psal.</hi> 78.5, 6. <hi>Pro.</hi> 22.6. <hi>Deut:</hi> 6.6, 7. In which last Scripture, every housholder <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> Commanded of God to have <hi>the words of God in his heart, and that he teach them diligently to his children, talking of them when he sitteth in his house, and when he walketh by the way, when he lyeth down &amp; when he riseth up.</hi> And therefore, if your children &amp; servants be not instructed &amp; taught in the word of God, you will not be able to give any good answer for it before the Lord, having lived in the neglect of so express &amp; plain, so serious and solemn a Commandement. The truth is you have but little love either to God, or to your children, or to your selves, if you make not conscience of this duty. For love to God would both provoke <hi>to keep his Commandements,</hi> of which the teaching of your children is one, and would stirr up the soul that hath it to de<g ref="char:EOLhyphen"/>sire &amp; endeavour that God might be honoured &amp; served as much &amp; by as many persons &amp; people as possibly it could attain unto. And therefore how can you say that you love God, when you do not your best endeavour that others, at least your own children &amp; housholds may do him service? Would you have God to have no service but by your selves, or whilest your selves are alive? You know your selves must not live alwayes; therefore it would be some Testimony of your love to his Majesty, if you be carefull to train up a poste<g ref="char:EOLhyphen"/>rity for the Lord, and so to teach them in his wayes, that your seed may serve him when your selves shall be dead &amp; gone. As for your children, you know they are born in sin, and so children of wrath by nature<g ref="char:punc">▪</g> and without Rege<g ref="char:EOLhyphen"/>neration &amp; holiness must never see the Kingdom of God; and can you love them, and not endeavour to help them out of this woefull &amp; wretched con<g ref="char:EOLhyphen"/>dition? I think he loves his child, or his freind but little, that seeth him ly fast asleep within the flood-markes &amp; reach of the tide, and so every hour in danger to be swept away &amp; drowned in the waters and waves of the Sea, and
-<pb n="10" facs="tcp:000047_0013_0F9F18914DDF0E50"/>
+<pb n="10" facs="unknown:000047_0013_0F9F18914DDF0E50"/>
 for all this can endure yet to let him alone, and never endeavour to awake him and rouse him up, that he may escape that apparent &amp; imminent danger. Judg then in your selves, what love there can be in you to your poor children when you take no care, or make no conscience to save their soules from the deluge of destruction, and from their sins of heart &amp; life, whereby they are in dayly danger to be swept away with that deluge, &amp; to be overwhelmed with destruction. Please not your selves as if you loved them sufficiently in that you are carefull to provide them meat &amp; cloaths, and other necessaryes for the body. For Turks &amp; Indians can do so; and should not you <hi>be better</hi> and do <hi>better then they?</hi> Will you do no more for the soules of your children then Pagans &amp; Infidels would do for the soules of theirs? Very beares and other <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>uit beasts, yea and <hi>the Sea-monsters,</hi> are not so unnatural, but that they have some care of their young ones, <hi>Lam:</hi> 4.3. Only this care of theirs reacheth no further but to the flesh or body, as indeed they have no immortal Soules to care or be cared for. But I beseech you, let your care &amp; love to your children reach further, even to do your utmost endeavour to help forward the salvation of their precious and immortal soules; else never say you do truely love them. Nay in such case you cannot say you do truely love your selves. For the neglect of this duty will be your own disadvantage, and will further your own dis<g ref="char:EOLhyphen"/>comfort, both in this &amp; in another world. If children be duely instructed when they are young, there is hope they will walk according thereto when they shall be grown, <hi>Pro:</hi> 22.6. and will not this be a comfort &amp; joy of heart to any godly Parent? the holy Ghost tells us that <hi>the wise Son maketh a glad Father, Pro.</hi> 10.1. <hi>&amp;</hi> 23. <hi>ver.</hi> 24, 25. <hi>&amp; ver.</hi> 15, 16. But on the other side, who knoweth not, that <hi>the Father of a fool hath no joy, Pro:</hi> 17.21, 25. and <hi>that a child left to himself bringeth his Mother to shame, Pro:</hi> 29.15. Unless therefore you love your own sorrow &amp; shame, you must not leave your childre<g ref="char:cmbAbbrStroke">̄</g> to them<g ref="char:EOLhyphen"/>seves, neglecting to instrust them in the word &amp; wayes of God, but as you love your selves &amp; your own comfort, you must be carefull of this duty; for this meanes is conducible to such an end, and the neglect hereof, doth <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -629,7 +630,7 @@ for all this can endure yet to let him alone, and never endeavour to awake him a
                   <desc>〈◊〉</desc>
                </gap> day will that be? what a hearing will it be to poor tormented soules to hear their children cry out against them thus, or to the like purpose, viz
 <q>All this that we here suf<g ref="char:EOLhyphen"/>fer is through you: You should have taught us the things of God, and did not,
-<pb n="11" facs="tcp:000047_0014_0F9F18921E77DDA0"/>
+<pb n="11" facs="unknown:000047_0014_0F9F18921E77DDA0"/>
 you should have restrained us from Sin and corrected us, and you did not: <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> were the meanes of our Originall Corruption and guiltiness, and yet you never shewed any competent care that we might be delivered from it, from you we did receive it, by your neglect we have continued in it, and now we are <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -682,7 +683,7 @@ All this is no more then may well be imagined &amp; supposed to be the woefull c
                </gap> outhouses, your fencing in ground or other <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="12" facs="tcp:000047_0015_0F9F1892D7C5F3E8"/>
+               <pb n="12" facs="unknown:000047_0015_0F9F1892D7C5F3E8"/>
 what ever, you can not have any holy or sanctified use thereof, if the word of God in your families, and prayer there be neglected. Therefore teach your children the word of God, firstly the principles of Catechism, and afterwards highe<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> points, and pray that they, and your endeavours with them &amp; for them may be blessed. Tell them, so many of them as have been Baptized, and tell it them as soon as they shall be able to learn, what a solemn Covenant there is between the God of heaven &amp; them, whereby the Lord takes them to be <hi>his own. Ezek.</hi> 16.8. yea to be <hi>his Children, Sons &amp; daughters unto him, Ezek.</hi> 16.20, 21. <hi>
@@ -690,7 +691,7 @@ what ever, you can not have any holy or sanctified use thereof, if the word of G
                      <desc>•</desc>
                   </gap>sai</hi> 43.8. and engageth himself to be <hi>a God to them, Gen:</hi> 17.7. and this even from their Infancy, or <hi>mothers womb, Psal.</hi> 22.10. <hi>Isai.</hi> 46.3. Tell them also that in their Baptism, this Covenant between the Lord &amp; them was solemnly confirmed &amp; sealed; for it was so with the Circumcised, <hi>Gen:</hi> 17.11 <hi>Rom<g ref="char:punc">▪</g>
                </hi> 4.11. and it is no less with the Baptised. Yea and tell them that they were Baptized <hi>into the name of the Father, Son and Holy Ghost, Mat:</hi> 28.19. and therefore do now bear the name of God upon them, and so are not their own but his, as <hi>being called by his name, Deut:</hi> 28.9, 10. <hi>Isai.</hi> 43.7. <hi>&amp;</hi> 63. last; And if they be the Lords, and be called by his name, and have him to be their God by Covenant, they may be well assured that all the rich blessings of that Cove<g ref="char:EOLhyphen"/>nant shall be <hi>their Inheritance for ever,</hi> if it be not through their own default, because the Lord is <hi>the Faithfull God that keepeth Covenant and Mercy with them that love him and keep his Commandements, even to a thousand geneeations, Deut:</hi> 7.9. <hi>Psal.</hi> 105.8. So that if they do not break Covenant with him, He will never break with them. But on the contrary, you must not fail to tell them that if they for their parts shall walk contrary to their Covenant, in the wayes of sin &amp; unbelief, and shall continue impenitently therin, this will be a great aggravation of their sin in the sight of God, and will bring upon them the sorer and more dreadfull judgments, as breach of Covenant hath ever done, <hi>Deu:</hi> 29 25, and 31.16, 17. <hi>Judges</hi> 2.20. <hi>Jer:</hi> 11.10, 11. <hi>Ezek.</hi> 16.8, 32, 38, 59. and their Baptism, which if they kept their Covenant, might be unto them a pledg and seal of salvation, will now be altogether fruitless &amp; unprofitable, as if it were no Baptism, <hi>Rom:</hi> 2.25, 28. and the condition of the children of Turks or Indians or other Pagans, which were never Baptized, but are strangers from God and from his Covenant, will be no worse, nor more uncomfortable then theirs; or rather theirs will be farr worse, their sins being against more mercy and being violations of the Covenant, which was confirmed &amp; sealed in their Baptism. Tell them seriously of these things, and press upon them the re<g ref="char:EOLhyphen"/>membrance, consideration, and conscience of their Baptism &amp; Covenant, and the great engagement that lyeth upon them thereby. Take account of them
-<pb n="13" facs="tcp:000047_0016_0F9F189386B7F498"/>
+<pb n="13" facs="unknown:000047_0016_0F9F189386B7F498"/>
 how they profit by hearing Sermon. Suffer them not to profane the Sabbath or Lords day, by spending it in idleness, or mispending any part of that holy time in play, but remember that in the fourth Commandement, the house<g ref="char:EOLhyphen"/>holder is charged to keep that day holy, and to see that Son &amp; daughter, man and maid may do the like. Yea the Mother &amp; mistress of the house is not ex<g ref="char:EOLhyphen"/>empted from this duty; for Solomon was instructed by his Mother, <hi>Pro.</hi> 31.1. &amp;c: and Timothy by his Mother and Grandmother; for <hi>he knew the holy Scriptures of a child,</hi> 2 <hi>Tim:</hi> 3.15. and how should that be but by his <hi>Mother and Grandmother</hi> being believers, 2 <hi>Tim:</hi> 1.5. for <hi>his Father was a Greek, Acts</hi> 16.1. And every Vertuous woman will <hi>open her mouth with Wisedom, (viz</hi> in her house amongst her children and servants, for in the Church shee must be silent, 1 <hi>Cor:</hi> 14.34, 35.) <hi>and the Law of Grace is in her tongue, Pro:</hi> 31.26.</p>
             <p>Mothers, you are more with your children whilest they are little ones, then their Fathers are, therefore he still teaching them as soon as ever they are capa<g ref="char:EOLhyphen"/>ble of learning. You are at much paines with the bodyes of your children, and suffer not a little while you bear them in your wombs &amp; when you bring them into the world, and will you not be at some paines for the saving of their soules? You are naturally of tender and dear affection to your children, and God mislikes it not that it be so; but will you shew no affection to them in respect of their soules, which is the principal matter? will it not move you to think that the children of your own bowells should everlastingly perish, and be in unconceivable misery world without end? I beseech you have pitty upon them, and do your best to teach them, and pray for them, weep for them, and wrestle with God for them, who knowes but the prayers and teares of a faithfull Mother may be the salvation of the childs soule?</p>
             <p n="5">5. <hi>Content not your selves with the name of Christians or of Church-mem<g ref="char:EOLhyphen"/>bers,</hi> nor with meer profession or an external form of Religion, but <hi>see that you be Religious in sincerity &amp; truth,</hi> mainly following <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -710,7 +711,7 @@ how they profit by hearing Sermon. Suffer them not to profane the Sabbath or Lor
                <hi>that God knoweth the heart, Ac<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>s</hi> 1.24. <hi>&amp;</hi> 15.8. <hi>Psa.</hi> 44.21. <hi>Rev.</hi> 2.23. So that though you may de<g ref="char:EOLhyphen"/>ceive men and your own selves, yet him you can not deceive Think with
-<pb n="14" facs="tcp:000047_0017_0F9F18944F811208"/>
+<pb n="14" facs="unknown:000047_0017_0F9F18944F811208"/>
 your selves that though Hypocrisie may ly hid &amp; unknown for a time, yet it shall not alwayes do so, but in time shall be <hi>revealed &amp; brought to light, Luke</hi> 12.1, 2. 1 <hi>Cor:</hi> 4.5. Think with your selves, that all professours are not found but there are many yea very many that are otherwise; for <hi>many are called,</hi> so as to be amongst the guests of God it the marriage fe<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>t, and yet of them that are thus called, there are <hi>few that are chosen,</hi> and that have indeed the <hi>wed<g ref="char:EOLhyphen"/>ding garment, Mat:</hi> 22.10, 11, 12, 14. And lastly think this with your selves that of all punishments, the punishment of hypocrites is amongst the greatest fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -722,7 +723,7 @@ your selves that though Hypocrisie may ly hid &amp; unknown for a time, yet it s
                   </gap> thereof may b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> Crucified</hi> and killed, maintaining a combat and warr against sin, and unfeinedly de<g ref="char:EOLhyphen"/>siring that no iniquity might have dominion over him, but that the old
-<pb n="16" facs="tcp:000047_0018_0F9F18950555F398"/>
+<pb n="16" facs="unknown:000047_0018_0F9F18950555F398"/>
 man and all the body of sin might be destroyed: In the spirituality of duty, when a man endeauoureth to do all that he doth, whether of the first or second Table, whether in his general or particular calling, 1. In obedience to God that hath so commanded, 2. With the heart &amp; soul and not alone with the outward man, 3. In sense of a mans own infirmity and not in his own strength, but <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>n the stre<g ref="char:cmbAbbrStroke">̄</g>gth of Christ, 4. With an heart desirous to please and glorifie God therein, 5. Never taking contentment in any thing he doth, further then the Spirit of Christ doth thus carry him forth in all,</p>
@@ -737,9 +738,9 @@ man and all the body of sin might be destroyed: In the spirituality of duty, whe
                </gap>, and having consumed the very soul &amp; <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>
-               <pb n="17" facs="tcp:000047_0019_0F9F1895E1B85300"/>
+               <pb n="17" facs="unknown:000047_0019_0F9F1895E1B85300"/>
 1 <hi>Kings</hi> 20.40. was <hi>busie here and there,</hi> he whom he should have kept was missing and <hi>gone:</hi> So while many men are busie here &amp; there about worldly imployments, the power and life of Religion, which they should have care<g ref="char:EOLhyphen"/>fully kept, is utterly lost and quite gone. <hi>The deceitfulness of riches, and cares of this life, do as thornes choak the seed of the word</hi> in many professours, that they <hi>become unfruitfull, Mark</hi> 4.19. As Demas forsook Paul through <hi>love of this present world,</hi> 2 <hi>Tim:</hi> 4.10. and Ezekiels hearers could not hear the word with profit, because their <hi>heart went after their coveteousness, Ezek.</hi> 33.31. Oh therefore take heed, I do beseech you, least it be so with any of you, least earthly cares and encumbrances should dull your spirits, and take off their edge in the things of greatest importance, and lest by these things all the vigour of Religion should be wasted and worne out, and nothing be left but a dry &amp; sapless formallity, a spiritless &amp; powerless profession. You would be more happy if you could make a vertue of necessity, I mean if you could turn all the acts of your particular callings, all the imployments that God hath laid upo<g ref="char:cmbAbbrStroke">̄</g> you about these earthly things, if you could turn them all into so many acts of Religion and Obedience towards God. Which is not a thing impossible, for the Apostle expressly requires it of Servants, that what ever they did (<hi>viz:</hi> in the labours of their callings) they should <hi>do it as unto Christ, as to the Lord and not unto men, Eph.</hi> 6.5, 6 7. <hi>Col.</hi> 3.22, 23. And if servants may do their works and dutyes of their places with such a spirit, why may not masters do theirs with the like spirit, and Parents theirs, and children theirs, and husband &amp; wives theirs, and every man &amp; euery woman perform their earthly imployments in such fear of God, in such singleness of heart, in such respect to the Co<g ref="char:cmbAbbrStroke">̄</g>mandement, that all these may be so many several acts of O<g ref="char:EOLhyphen"/>bedience towards God, so many parts &amp; expressions of the power &amp; practise of godliness? If Adam had not sinned, his <hi>dressing &amp; keeping the garden Gen:</hi> 2.15. would have been so: and doubtless with our blessed Saviour it was so; for he was <hi>subject</hi> to Joseph &amp; Mary as a child to his parents, <hi>Luke</hi> 2.51. and it is like he wrought with Joseph at the work of a Carpenter, and therfore he was not only called the Carpenters son, but <hi>the Carpenter Mark</hi> 6.3. and his Religious &amp; pious spirit would doubtless do all these external and earthly business with respect to God and in obedience to him. And the truth is, it is not only the object about which actions are conversant, but the heart wherewith they are done, and the grounds of doing them, with the ends that are aimed at therein, that makes them acts of Religion truly pleasing to God; So that if these be not right and spiritual, then preaching &amp; praying, hearing &amp; repeating Sermons, &amp; such like will be no better then acts of pro<g ref="char:EOLhyphen"/>faneness &amp; ungodlyness, and in the issue be charged upon the doers as so many
-<pb n="18" facs="tcp:000047_0020_0F9F1898DF6C8288"/>
+<pb n="18" facs="unknown:000047_0020_0F9F1898DF6C8288"/>
 But on the contrary, civill imployments if they be performed with spiritual minds, upon such spiritual grounds, and to such spiritual ends as they might and ought, then these imployments even these will be accounted &amp; approv<g ref="char:EOLhyphen"/>ed of, as acts of religion &amp; godlyness, or obedience towards God, and as such will be pleasing in his sight. Wherefore, to make an end of this, let it be your care, and the Lord help you that you may do it effectually, that earthly or worldly imployments may not destroy nor diminish the life and power of godlyness &amp; religion, but that the life &amp; power of religion may breath and be put forth in all your earthly &amp; civil imployments.</p>
             <p n="6">6<g ref="char:punc">▪</g> 
                <hi>Above all other things be carefull in all your desires and endeavours to make out after the enjoyment of God himself, and of Communion with his blessed Majesty, as your summum bonum, your chi<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -749,7 +750,7 @@ But on the contrary, civill imployments if they be performed with spiritual mind
                   </gap>
                </hi> 25.41. 2 <hi>Thes.</hi> 1.9. which doth evidently demonstrate that to enjoy communion with the blessed God, is of all things the most desirable for any of the sonns of men. Imagine all the good in the whole world to be gathered into one store-house, and there to be laid up in one heap, you know he that were farr from that store-house and had no part there must needs be miserable; and even so is such a soul as is without the injoyment of God. If the Sun should depart out of the world there would be nothing left but dreadfull darkness upon all the Creation, all light being now placed in the Sun: and if the fountain be dryed up or stopped, all the streames must needs fail. In like sort take away the injoy<g ref="char:EOLhyphen"/>ment of God from any soul, and all that is left must needs be nothing worth, but even a lump of vanity &amp; evill. For the best of creatures without God are but vanity, yea &amp; vexation of spirit. You may believe him that by large ex<g ref="char:EOLhyphen"/>perience had found it so, and gives us his report &amp; testimony of what he had found, <hi>Eccles.</hi> 1.2. <hi>and</hi> 12.8. And the time will come when his words will be found of others to be a truth, if now it seem not so. When sickness comes when old age comes, when the temptations of the Divel do assault you, when the pangs of death are upon you, oh then what will all these things availe you in that day? they will surely be then as Jobs freinds, dry &amp; empty
 <pb n="19"
-                   facs="tcp:000047_0021_0F9F1899CE3D1C70"
+                   facs="unknown:000047_0021_0F9F1899CE3D1C70"
                    rendition="simple:additions"/>
 pits, <hi>miserable comforters and physitians of no value Job</hi> 6.15. &amp;c: <hi>&amp;</hi> 13.4. <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -841,7 +842,7 @@ pits, <hi>miserable comforters and physitians of no value Job</hi> 6.15. &amp;c:
                   </gap>y <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>, Psal.</hi> 16.5, 6. This is the <hi>good part,</hi> the best part, that can be chosen, and they that have grace to make their choise of it, it <hi>shall never be taken from them, Luke</hi> 10.42 But in God as in the <hi>fountain of life, in whose light they shall see light,</hi>
-               <pb n="20" facs="tcp:000047_0022_0F9F189AF20DFAE8"/>
+               <pb n="20" facs="unknown:000047_0022_0F9F189AF20DFAE8"/>
 and who makes them <hi>drink of the River of his pleasures,</hi> in him, and in his favour <hi>they shall be abundantly satisfied, Psal.</hi> 36.7, 8.9. <hi>&amp;</hi> 17.15. and <hi>their soules shall one day be <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>lied as with marrow and fatness, and their mouths shall prayse the Lord with joyfull lips, Psal.</hi> 63.5. It is no great matter if the comfort of creatures shall fail them, if they shall be compassed about with miseries &amp; distresses on every side, yea if <hi>they walk in the valley of the shaddow of death,</hi> yet having <hi>God with them</hi> and his favour towards them, they need not to <hi>fear</hi> for any of these things but may comfort themselves and rejoyce in God in the worst condition that can befall them, and at such times be even <hi>filled with joy and with the Holy-Ghost, Hab:</hi> 3.17, 18. 1 <hi>Sam:</hi> 30.6. <hi>Psal.</hi> 23.4. <hi>Acts</hi> 13.52. Loe freinds what it is to have the enjoyment of God. Wherefore if you be wise <hi>draw neer to God,</hi> and make him your portion. You see it will be <hi>good,</hi> yea best for you so to do; and the Lord help you that you may do it unfeinedly and effectually, without delay and without declining. Do you not consider what a great &amp; heinous Idolatry it is, when men choose unto themselves <hi>other God:</hi> besides the Lord Jehovah, the only true &amp; living God? It is you know the first Commandement of the ten, <hi>Thou shalt have no other Gods but Mee?</hi> and to love the Lord above all, even <hi>with all the heart and with all the soul, &amp; with all the mind &amp; with all the strength, this is the first and great Commandement Mat:</hi> 22.37. Beware therefore that no love of any creature what ever it be, much less the love of any Sin, beware I say that no love to any of these be predominant in your soules above the love of God: you will be v<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -874,7 +875,7 @@ and who makes them <hi>drink of the River of his pleasures,</hi> in him, and in 
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> ye
-<pb n="21" facs="tcp:000047_0023_0F9F189BE00478E0"/>
+<pb n="21" facs="unknown:000047_0023_0F9F189BE00478E0"/>
 at all fast unto me, even unto me, verse</hi> 5. It seemes their fasting was neither with hearts that desired nor aimed to honour God, nor to enioy commu<g ref="char:EOLhyphen"/>nion with God, and therefore all their fasting is rejected, because God was not sought therein. If you do not seek the Lord in your doings and per<g ref="char:EOLhyphen"/>formances, nor make him the end of your desires &amp; endeavours, but that there be something else that your hearts do more esteem then him, and can rest contented withall, though without him, then I must needs say your state in grace is very questionable, or rather unquestionably unsound. For <hi>if any man love the world,</hi> (sure if he love the same better then God) <hi>the love of the Father is not in him,</hi> 1 <hi>John</hi> 2.15. It is (and must needs be so accounted, even) a vile dishonour &amp; notorious contempt against the alsufficient and blessed God, when any creature whether a mans self, or ought else is more re<g ref="char:EOLhyphen"/>spected and esteemed then he. Therefore though <hi>many say, who will shew us any good,</hi> yet let your hearts say, <hi>Lord lift up the light of thy countenance up<g ref="char:EOLhyphen"/>on us, and this</hi> shall be to us <hi>more gladnes of heart, then in the time when their corn and their wine increased, Psal.</hi> 4.6, 7. CHRISTIAN, thou that readest these lines, Lift up thy heart unto God, and pray that he would give thee such an heart that thou mightest in sincerity say, Oh that above all things I might have the enjoyment of God! oh that above all things I migh be to the hon<g ref="char:EOLhyphen"/>our of God.</p>
             <p n="7">7. But how should men that are sinners have any access to God, or en<g ref="char:EOLhyphen"/>joy Co<g ref="char:cmbAbbrStroke">̄</g>munion with him. <hi>It is true, of themselves they can not, yet the<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -885,9 +886,9 @@ at all fast unto me, even unto me, verse</hi> 5. It seemes their fasting was nei
                   </gap>sus,</hi> 1 <hi>Tim:</hi> 2.5. He <hi>is the way, the truth and the life,</hi> there is <hi>no comming to the Father but by him, John</hi> 14.6. To enjoy God it is true is our life, for <hi>in his favour is <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ife,</hi>
-               <pb n="22" facs="tcp:000047_0024_0F9F189C83E855F0"/>
+               <pb n="22" facs="unknown:000047_0024_0F9F189C83E855F0"/>
 yea <hi>his loving kindness is better then life</hi> it self, <hi>Psal.</hi> 30.5. <hi>&amp;</hi> 63.3. But it is as true, that this life can not now be had but through Christ, so that <hi>he that hath the Son hath life, and he that hath not the Son hath not life,</hi> 1 <hi>John</hi> 5.12 If you desire Communion with God and shall sue unto him that you may enjoy it, (and you are most wretched &amp; accursed if you do it not) yet in such case the Lord will speak to you in language like to that of the Lord of Egypt unto Jacobs sonns, <hi>never see my face except your brother be with you,</hi> never look to see the face of God to your comfort in this or in another world, except Jesus Christ be with you, and that you present your selves before God in his Satis<g ref="char:EOLhyphen"/>faction &amp; Mediation. You may not think, oh let such thoughts be far from you, that you can have access to God or be accepted of him, for any thing that you have wrought or can work. You know but little of your selves if you do not know, that the best of your performances have need of pardon through the blood of Christ, and therefore they are not able to purchase any pardon or favour for you in the sight of God; no, no, it is Christ alone that must do this for you<g ref="char:punc">▪</g> you and your works must be washed in his precious blood, and so cleansed from the uncleaness that is in you &amp; them, or else both you &amp; they will be rejected of God as most abominable in his sight. It is Christ alone that is the true High Priest that <hi>beares the iniquity of the holy things</hi> of Gods people, that through his Holiness <hi>they may be accepted before the Lord<g ref="char:punc">▪</g> Exod:</hi> 28.38. which otherwise they could not be. It is he that is that true <hi>Golden Altar</hi> that <hi>Sanctifies</hi> all <hi>gifts,</hi> that are offered upon him. It is he that <hi>offers Incense with the prayers of all Saints,</hi> and perfumes them with his Merits and Intercession, that so they may ascend with acceptance before God <hi>out of his hand, Rev:</hi> 8.3, 4. Wherefore of necessity you must disclaim all thought of any worth in your selves, or in the best of your doings, and look for all acceptance of your persons &amp; performances through Jesus Christ and through him alone, as that blessed Martyr <hi>John Lambert</hi> cryed out at his death, <hi>none but Christ, none but Christ.</hi> When Christ was in the world he was allwayes carefull to honour the Father, &amp; now the Father would have all men to <hi>honour him, even as they honour the Father</hi>; and we are plainly told, that <hi>he that honour<g ref="char:EOLhyphen"/>eth not the Son, he honoureth not the Father which sent him, John.</hi> 5.23. And of the honour that we should do unto the Son, this is the Summ, that we ac<g ref="char:EOLhyphen"/>knowledg all our interest in God, and so in all good to be only through him and accordingly through him alone to look for it, and to behave our selves as those that so do. If you shall through grace do thus, this will be greatly for the honour of Jesus Christ, wherein you have a notable &amp; pregnant example of blessed Paul, as having gone before you in this way of giving honour to the Lord Jesus. For sometimes you have him say that he <hi>esteemed not to know
-<pb n="23" facs="tcp:000047_0025_0F9F18A38EB8DC20"/>
+<pb n="23" facs="unknown:000047_0025_0F9F18A38EB8DC20"/>
 any thing <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> Jesus Christ and <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -938,7 +939,7 @@ any thing <gap reason="illegible" resp="#PDCC" extent="1 word">
                   </gap>ll not come unto him that they may have life, J<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>hn</hi> 5.40. but he <hi>would have gathered them, as an henn doth chickens under her wings, and they would not Mat:</hi> 23.37. Be afraid therefore least <hi>a promise</hi> of eternal life and <hi>rest being left you</hi> in Christ Jesus, <hi>any of</hi> you <hi>should seem to come short of it, Heb:</hi> 4.1. That God should send his Christ <hi>into the world to save sinners,</hi> and sinners should neglect to come to this Christ or to accept of him, as if they had no need of him, or could do well enough without him, this will doubtless
-<pb n="24" facs="tcp:000047_0026_0F9F18ACD56F2AD8"/>
+<pb n="24" facs="unknown:000047_0026_0F9F18ACD56F2AD8"/>
 be the damnation, the great &amp; deep<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>damnation of a world of men at the last day, <hi>J<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -994,7 +995,7 @@ be the damnation, the great &amp; deep<gap reason="illegible" resp="#PDCC" exten
                </gap>, and your love to him should be such as to suffer any affliction, yea t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> lay
-<pb n="25" facs="tcp:000047_0027_0F9F18AF58A668D8"/>
+<pb n="25" facs="unknown:000047_0027_0F9F18AF58A668D8"/>
 down your lives for his sake, if he shall call you unto it. If you love any creature how dear or near so ever it may be, yea if you love your own lives better then him, he will never own you for his, nor account you his disc<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ples, <hi>Mat:</hi> 10.37. <hi>Luke</hi> 14.26. and how much less if you love any sin so dearly that you can not leave it for Christs sake, but still retain it and live in it? Therefore see that you love him, and love him above all. Let your thoughts be much taken up in holy musings &amp; meditations of him. Long for his pre<g ref="char:EOLhyphen"/>sence in the commings in and gracious workings &amp; fillings of his spirit. Let it be your greif, if at any time his face be hid from you<g ref="char:punc">▪</g> and count it a weari<g ref="char:EOLhyphen"/>some time till he shew himself again: with the loyal spouse of Christ it is so <hi>Cant:</hi> 3. <hi>&amp;</hi> 5. and that heart is no better then the heart of an harlot, that hath not many thoughts of her husband when absent from her, but can bear his absence though it be never so long, without greif, with few and seldome thoughts of him, &amp; small desires of his comming. He is now absent from you all in regard of his bodily presence; but he hath promised his spiritual presence, which is as good if not much better, <hi>Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1009,7 +1010,7 @@ down your lives for his sake, if he shall call you unto it. If you love any crea
             <p>But I must tell you the truth, it is but a small pittance of the comforts of Christ in comparison, that in this world you can enjoy. No, no, Jesus Christ is not here, he hath left this world and is gone unto the Father, and here we can <hi>see him no more.</hi> His choisest sai<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ts can not see him in fullness, till the time come that they be removed hence, and then they <hi>shall see him,</hi> yea and <hi>be like unto him, for they shall see him as he is,</hi> 1 <hi>Iohn</hi> 3.2. and then shall
-<pb n="26" facs="tcp:000047_0028_0F9F18B050F4F528"/>
+<pb n="26" facs="unknown:000047_0028_0F9F18B050F4F528"/>
 all weakness and imperfection be done away, and perfection come in stead thereof, 1 <hi>Cor:</hi> 13.10. Yea then shall be fulfilled the promise that he hath promised, that having <hi>prepared a place</hi> in heaven for his redeemed, he <hi>will come again &amp; take them to himself, that where he is there they may be also. John</hi> 14.2, 3. and then shall appear the full performance of that prayer of his, when he prayed unto the Father, that <hi>those whom he had given him might be with him where he is to behold his glory which is given unto him by the Father<g ref="char:punc">▪</g> John</hi> 17.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> When this time shall come, then, my dearly beloved<g ref="char:punc">▪</g> you may be happy in the full fruition of Christ; but before that time it can not be. While you are <hi>at home in the body, you are absent from the Lord,</hi> 2 <hi>Cor.</hi> 5.6. Therefore take not up your rest on this side Jordan: <hi>Count not your selves to have attained</hi> what is to be attained, for you have yet no more but <hi>the first fruits, Rom</hi> 8.23 the full harvest is yet to come. Oh long for the harvest, long for your de<g ref="char:EOLhyphen"/>parture, and for <hi>the appearing of Christ.</hi> You know who said, it was his <hi>de<g ref="char:EOLhyphen"/>sire to depart and to be with Christ, which was farr better, Phil.</hi> 1.23. You know it is the description of all the godly, that they <hi>love the appearing of J<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1056,7 +1057,7 @@ all weakness and imperfection be done away, and perfection come in stead thereof
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>.</hi> 13.17. Even so say I to you. The directions are not many in number, but only seven, and so not hard to be remembred for the substance of them: and yet as I conceive, they are all of great importance, and not any of them that can be safely neglected.
-<pb n="27" facs="tcp:000047_0029_0F9F18B0CA1085D8"/>
+<pb n="27" facs="unknown:000047_0029_0F9F18B0CA1085D8"/>
 If you be destitute of godly sorrow &amp; humiliation for sin, and true humility of mind, If you be not sound in the faith, but corrupt in your judgment<g ref="char:punc">▪</g> 
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
